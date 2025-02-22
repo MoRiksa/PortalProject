@@ -1,0 +1,12 @@
+﻿Public Class F_Menu
+    Private Sub F_Menu_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+
+    Private Sub ButtonF_Latihan_Click(sender As Object, e As EventArgs) Handles ButtonF_Latihan.Click
+        ' Membuka Form Latihan1
+        Dim latihan1Form As New Latihan1
+        latihan1Form.Show()  ' Menampilkan Form Latihan1
+        Me.Hide()  ' Menyembunyikan Form F_Menu agar tidak tumpang tindih
+    End Sub
+End Class

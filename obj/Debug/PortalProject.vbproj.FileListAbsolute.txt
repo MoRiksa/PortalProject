@@ -1,0 +1,16 @@
+C:\Users\indra\source\repos\PortalProject\bin\Debug\PortalProject.exe
+C:\Users\indra\source\repos\PortalProject\bin\Debug\PortalProject.exe.config
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.vbproj.AssemblyReference.cache
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.F_Menu.resources
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.Resources.resources
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.Latihan1.resources
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.Latihan2.resources
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.vbproj.GenerateResource.cache
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.vbproj.CoreCompileInputs.cache
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.exe
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.xml
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.pdb
+C:\Users\indra\source\repos\PortalProject\bin\Debug\PortalProject.pdb
+C:\Users\indra\source\repos\PortalProject\bin\Debug\PortalProject.xml
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.Latihan3.resources
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.Latihan1sd2.resources

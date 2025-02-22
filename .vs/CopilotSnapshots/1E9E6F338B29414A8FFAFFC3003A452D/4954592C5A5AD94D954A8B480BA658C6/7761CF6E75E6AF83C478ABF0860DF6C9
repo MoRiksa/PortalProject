@@ -1,0 +1,156 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class Latihan1
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.ButtonF_Menu = New System.Windows.Forms.Button()
+        Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.field_Jumlah = New System.Windows.Forms.TextBox()
+        Me.field_Harga = New System.Windows.Forms.TextBox()
+        Me.Jumlah = New System.Windows.Forms.Label()
+        Me.Harga = New System.Windows.Forms.Label()
+        Me.Nama = New System.Windows.Forms.Label()
+        Me.field_Nama = New System.Windows.Forms.TextBox()
+        Me.button_Hitung = New System.Windows.Forms.Button()
+        Me.button_Ulang = New System.Windows.Forms.Button()
+        Me.Panel1.SuspendLayout()
+        Me.SuspendLayout()
+        '
+        'ButtonF_Menu
+        '
+        Me.ButtonF_Menu.BackColor = System.Drawing.SystemColors.Control
+        Me.ButtonF_Menu.Location = New System.Drawing.Point(638, 401)
+        Me.ButtonF_Menu.Name = "ButtonF_Menu"
+        Me.ButtonF_Menu.Size = New System.Drawing.Size(118, 23)
+        Me.ButtonF_Menu.TabIndex = 1
+        Me.ButtonF_Menu.Text = "Menu Utama"
+        Me.ButtonF_Menu.UseVisualStyleBackColor = False
+        '
+        'Panel1
+        '
+        Me.Panel1.BackColor = System.Drawing.SystemColors.AppWorkspace
+        Me.Panel1.Controls.Add(Me.button_Ulang)
+        Me.Panel1.Controls.Add(Me.button_Hitung)
+        Me.Panel1.Controls.Add(Me.field_Jumlah)
+        Me.Panel1.Controls.Add(Me.field_Harga)
+        Me.Panel1.Controls.Add(Me.Jumlah)
+        Me.Panel1.Controls.Add(Me.Harga)
+        Me.Panel1.Controls.Add(Me.Nama)
+        Me.Panel1.Controls.Add(Me.field_Nama)
+        Me.Panel1.Location = New System.Drawing.Point(33, 35)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.Size = New System.Drawing.Size(317, 336)
+        Me.Panel1.TabIndex = 2
+        '
+        'field_Jumlah
+        '
+        Me.field_Jumlah.Location = New System.Drawing.Point(133, 120)
+        Me.field_Jumlah.Name = "field_Jumlah"
+        Me.field_Jumlah.Size = New System.Drawing.Size(169, 22)
+        Me.field_Jumlah.TabIndex = 7
+        '
+        'field_Harga
+        '
+        Me.field_Harga.Location = New System.Drawing.Point(133, 76)
+        Me.field_Harga.Name = "field_Harga"
+        Me.field_Harga.Size = New System.Drawing.Size(169, 22)
+        Me.field_Harga.TabIndex = 6
+        '
+        'Jumlah
+        '
+        Me.Jumlah.AutoSize = True
+        Me.Jumlah.Location = New System.Drawing.Point(20, 123)
+        Me.Jumlah.Name = "Jumlah"
+        Me.Jumlah.Size = New System.Drawing.Size(97, 16)
+        Me.Jumlah.TabIndex = 5
+        Me.Jumlah.Text = "Jumlah Barang"
+        '
+        'Harga
+        '
+        Me.Harga.AutoSize = True
+        Me.Harga.Location = New System.Drawing.Point(20, 79)
+        Me.Harga.Name = "Harga"
+        Me.Harga.Size = New System.Drawing.Size(90, 16)
+        Me.Harga.TabIndex = 4
+        Me.Harga.Text = "Harga Satuan"
+        '
+        'Nama
+        '
+        Me.Nama.AutoSize = True
+        Me.Nama.Location = New System.Drawing.Point(20, 35)
+        Me.Nama.Name = "Nama"
+        Me.Nama.Size = New System.Drawing.Size(91, 16)
+        Me.Nama.TabIndex = 3
+        Me.Nama.Text = "Nama Barang"
+        '
+        'field_Nama
+        '
+        Me.field_Nama.Location = New System.Drawing.Point(133, 32)
+        Me.field_Nama.Name = "field_Nama"
+        Me.field_Nama.Size = New System.Drawing.Size(169, 22)
+        Me.field_Nama.TabIndex = 0
+        '
+        'button_Hitung
+        '
+        Me.button_Hitung.Location = New System.Drawing.Point(115, 188)
+        Me.button_Hitung.Name = "button_Hitung"
+        Me.button_Hitung.Size = New System.Drawing.Size(75, 23)
+        Me.button_Hitung.TabIndex = 3
+        Me.button_Hitung.Text = "Hitung"
+        Me.button_Hitung.UseVisualStyleBackColor = True
+        '
+        'button_Ulang
+        '
+        Me.button_Ulang.Location = New System.Drawing.Point(214, 188)
+        Me.button_Ulang.Name = "button_Ulang"
+        Me.button_Ulang.Size = New System.Drawing.Size(75, 23)
+        Me.button_Ulang.TabIndex = 3
+        Me.button_Ulang.Text = "Reset"
+        Me.button_Ulang.UseVisualStyleBackColor = True
+        '
+        'Latihan1
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.SystemColors.ControlDarkDark
+        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.Panel1)
+        Me.Controls.Add(Me.ButtonF_Menu)
+        Me.Name = "Latihan1"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "PROGRAM BELANJA SEDERHANA"
+        Me.Panel1.ResumeLayout(False)
+        Me.Panel1.PerformLayout()
+        Me.ResumeLayout(False)
+
+    End Sub
+    Friend WithEvents ButtonF_Menu As Button
+    Friend WithEvents Panel1 As Panel
+    Friend WithEvents field_Jumlah As TextBox
+    Friend WithEvents field_Harga As TextBox
+    Friend WithEvents Jumlah As Label
+    Friend WithEvents Harga As Label
+    Friend WithEvents Nama As Label
+    Friend WithEvents field_Nama As TextBox
+    Friend WithEvents button_Hitung As Button
+    Friend WithEvents button_Ulang As Button
+End Class

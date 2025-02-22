@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\indra\\source\\repos\\PortalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|c:\\users\\indra\\source\\repos\\portalproject\\view\\f_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\f_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|c:\\users\\indra\\source\\repos\\portalproject\\view\\latihan\\latihan1sd2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\latihan\\latihan1sd2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|c:\\users\\indra\\source\\repos\\portalproject\\view\\latihan\\latihan1sd2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\latihan\\latihan1sd2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|c:\\users\\indra\\source\\repos\\portalproject\\view\\latihan\\latihan1sd2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\latihan\\latihan1sd2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Latihan1sd2.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1sd2.Designer.vb",
+              "RelativeDocumentMoniker": "View\\Latihan\\Latihan1sd2.Designer.vb",
+              "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1sd2.Designer.vb",
+              "RelativeToolTip": "View\\Latihan\\Latihan1sd2.Designer.vb",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAAABwBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-22T12:43:10.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_Menu.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\F_Menu.vb",
+              "RelativeDocumentMoniker": "View\\F_Menu.vb",
+              "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\F_Menu.vb [Design]",
+              "RelativeToolTip": "View\\F_Menu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-22T12:36:33.466Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Latihan1sd2.vb",
+              "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1sd2.vb",
+              "RelativeDocumentMoniker": "View\\Latihan\\Latihan1sd2.vb",
+              "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1sd2.vb",
+              "RelativeToolTip": "View\\Latihan\\Latihan1sd2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-22T12:36:17.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Latihan1sd2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1sd2.vb",
+              "RelativeDocumentMoniker": "View\\Latihan\\Latihan1sd2.vb",
+              "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1sd2.vb [Design]",
+              "RelativeToolTip": "View\\Latihan\\Latihan1sd2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-22T12:32:48.262Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿Public Class Latihan1
+    Private Sub ButtonF_Menu_Click(sender As Object, e As EventArgs) Handles ButtonF_Menu.Click
+        Dim menuForm As New F_Menu
+        menuForm.Show()
+        Me.Close()
+    End Sub
+End Class
