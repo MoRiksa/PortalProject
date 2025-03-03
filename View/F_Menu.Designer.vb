@@ -28,6 +28,7 @@ Partial Class F_Menu
         Me.Button2 = New System.Windows.Forms.Button()
         Me.button_Latihan3 = New System.Windows.Forms.Button()
         Me.button_KalkulatorHitungNilai = New System.Windows.Forms.Button()
+        Me.button_Pertemuan4 = New System.Windows.Forms.Button()
         CType(Me.MenuImage, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -83,12 +84,23 @@ Partial Class F_Menu
         Me.button_KalkulatorHitungNilai.Text = "Kalkulator | Hitung Nilai"
         Me.button_KalkulatorHitungNilai.UseVisualStyleBackColor = False
         '
+        'button_Pertemuan4
+        '
+        Me.button_Pertemuan4.BackColor = System.Drawing.SystemColors.HighlightText
+        Me.button_Pertemuan4.Location = New System.Drawing.Point(278, 333)
+        Me.button_Pertemuan4.Name = "button_Pertemuan4"
+        Me.button_Pertemuan4.Size = New System.Drawing.Size(230, 38)
+        Me.button_Pertemuan4.TabIndex = 6
+        Me.button_Pertemuan4.Text = "Pertemuan 4"
+        Me.button_Pertemuan4.UseVisualStyleBackColor = False
+        '
         'F_Menu
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.MenuHighlight
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.button_Pertemuan4)
         Me.Controls.Add(Me.button_KalkulatorHitungNilai)
         Me.Controls.Add(Me.button_Latihan3)
         Me.Controls.Add(Me.Button2)
@@ -106,4 +118,5 @@ Partial Class F_Menu
     Friend WithEvents Button2 As Button
     Friend WithEvents button_Latihan3 As Button
     Friend WithEvents button_KalkulatorHitungNilai As Button
+    Friend WithEvents button_Pertemuan4 As Button
 End Class

@@ -14,3 +14,4 @@ C:\Users\indra\source\repos\PortalProject\bin\Debug\PortalProject.pdb
 C:\Users\indra\source\repos\PortalProject\bin\Debug\PortalProject.xml
 C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.Latihan3.resources
 C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.Latihan1sd2.resources
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.Pertemuan4.resources

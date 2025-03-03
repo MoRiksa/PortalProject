@@ -26,4 +26,9 @@
         Latihan1sd2.Show()  ' Menampilkan Form Latihan1sd2
         Me.Hide()  ' Menyembunyikan Form F_Menu agar tidak tumpang tindih
     End Sub
+
+    Private Sub button_Pertemuan4_Click(sender As Object, e As EventArgs) Handles button_Pertemuan4.Click
+        Pertemuan4.Show()  ' Menampilkan Form Pertemuan4
+        Me.Hide()  ' Menyembunyikan Form F_Menu agar tidak tumpang tindih
+    End Sub
 End Class
