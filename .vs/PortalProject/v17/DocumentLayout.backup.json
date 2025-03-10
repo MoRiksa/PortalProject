@@ -3,27 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\indra\\source\\repos\\PortalProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|c:\\users\\indra\\source\\repos\\portalproject\\view\\latihan\\pertemuan5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\latihan\\pertemuan5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|c:\\users\\indra\\source\\repos\\portalproject\\view\\latihan\\pertemuan5.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\latihan\\pertemuan5.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|c:\\users\\indra\\source\\repos\\portalproject\\view\\latihan\\pertemuan5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\latihan\\pertemuan5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|C:\\Users\\indra\\source\\repos\\PortalProject\\view\\f_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\f_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|c:\\users\\indra\\source\\repos\\portalproject\\view\\latihan\\pertemuan4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\latihan\\pertemuan4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|c:\\users\\indra\\source\\repos\\portalproject\\view\\latihan\\pertemuan4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\latihan\\pertemuan4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|c:\\users\\indra\\source\\repos\\portalproject\\view\\f_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\f_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|C:\\Users\\indra\\source\\repos\\PortalProject\\view\\f_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\f_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|c:\\users\\indra\\source\\repos\\portalproject\\view\\latihan\\latihan3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|C:\\Users\\indra\\source\\repos\\PortalProject\\view\\latihan\\pertemuan4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\latihan\\pertemuan4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|C:\\Users\\indra\\source\\repos\\PortalProject\\view\\latihan\\latihan3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\latihan\\latihan3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|c:\\users\\indra\\source\\repos\\portalproject\\view\\latihan\\latihan3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|C:\\Users\\indra\\source\\repos\\PortalProject\\view\\latihan\\latihan3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{803D3C96-78B9-42BD-AA0A-C4D09F479DDC}|PortalProject.vbproj|solutionrelative:view\\latihan\\latihan3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
@@ -54,20 +66,58 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pertemuan5.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Pertemuan5.Designer.vb",
+              "RelativeDocumentMoniker": "View\\Latihan\\Pertemuan5.Designer.vb",
+              "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Pertemuan5.Designer.vb",
+              "RelativeToolTip": "View\\Latihan\\Pertemuan5.Designer.vb",
+              "ViewState": "AgIAAC0CAAAAAAAAAAAtwDcCAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-10T01:42:56.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pertemuan5.vb",
+              "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Pertemuan5.vb",
+              "RelativeDocumentMoniker": "View\\Latihan\\Pertemuan5.vb",
+              "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Pertemuan5.vb",
+              "RelativeToolTip": "View\\Latihan\\Pertemuan5.vb",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAowOIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-10T01:23:17.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Pertemuan5.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Pertemuan5.vb",
+              "RelativeDocumentMoniker": "View\\Latihan\\Pertemuan5.vb",
+              "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Pertemuan5.vb [Design]",
+              "RelativeToolTip": "View\\Latihan\\Pertemuan5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-10T01:18:40.457Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "F_Menu.vb",
               "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\F_Menu.vb",
               "RelativeDocumentMoniker": "View\\F_Menu.vb",
               "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\F_Menu.vb",
               "RelativeToolTip": "View\\F_Menu.vb",
-              "ViewState": "AgIAABEAAAAAAAAAAAAtwB8AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAlwCQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-03T01:20:11.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Pertemuan4.vb",
               "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Pertemuan4.vb",
               "RelativeDocumentMoniker": "View\\Latihan\\Pertemuan4.vb",
@@ -80,43 +130,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pertemuan4.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Pertemuan4.vb",
-              "RelativeDocumentMoniker": "View\\Latihan\\Pertemuan4.vb",
-              "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Pertemuan4.vb [Design]",
-              "RelativeToolTip": "View\\Latihan\\Pertemuan4.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-03-03T01:15:01.522Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Latihan1.vb [Design]",
               "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1.vb",
               "RelativeDocumentMoniker": "View\\Latihan\\Latihan1.vb",
               "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1.vb [Design]",
               "RelativeToolTip": "View\\Latihan\\Latihan1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-02-22T13:05:31.943Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-22T13:05:31.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Latihan1sd2.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1sd2.Designer.vb",
-              "RelativeDocumentMoniker": "View\\Latihan\\Latihan1sd2.Designer.vb",
-              "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1sd2.Designer.vb",
-              "RelativeToolTip": "View\\Latihan\\Latihan1sd2.Designer.vb",
-              "ViewState": "AgIAAAYBAAAAAAAAAAAAABwBAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-02-22T12:43:10.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "F_Menu.vb [Design]",
               "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\F_Menu.vb",
               "RelativeDocumentMoniker": "View\\F_Menu.vb",
@@ -128,19 +153,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "Pertemuan4.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Pertemuan4.vb",
+              "RelativeDocumentMoniker": "View\\Latihan\\Pertemuan4.vb",
+              "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Pertemuan4.vb [Design]",
+              "RelativeToolTip": "View\\Latihan\\Pertemuan4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-03T01:15:01.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Latihan1sd2.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1sd2.Designer.vb",
+              "RelativeDocumentMoniker": "View\\Latihan\\Latihan1sd2.Designer.vb",
+              "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1sd2.Designer.vb",
+              "RelativeToolTip": "View\\Latihan\\Latihan1sd2.Designer.vb",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAAABwBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-22T12:43:10.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Latihan3.vb [Design]",
               "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan3.vb",
               "RelativeDocumentMoniker": "View\\Latihan\\Latihan3.vb",
               "ToolTip": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan3.vb [Design]",
               "RelativeToolTip": "View\\Latihan\\Latihan3.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-03-03T01:19:12.124Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-03T01:19:12.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Latihan3.vb",
               "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan3.vb",
               "RelativeDocumentMoniker": "View\\Latihan\\Latihan3.vb",
@@ -148,12 +195,11 @@
               "RelativeToolTip": "View\\Latihan\\Latihan3.vb",
               "ViewState": "AgIAAKQAAAAAAAAAAAAtwLEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-03-03T01:19:14.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T01:19:14.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Latihan1sd2.vb",
               "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1sd2.vb",
               "RelativeDocumentMoniker": "View\\Latihan\\Latihan1sd2.vb",
@@ -165,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Latihan1sd2.vb [Design]",
               "DocumentMoniker": "C:\\Users\\indra\\source\\repos\\PortalProject\\View\\Latihan\\Latihan1sd2.vb",
               "RelativeDocumentMoniker": "View\\Latihan\\Latihan1sd2.vb",

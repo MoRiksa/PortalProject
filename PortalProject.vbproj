@@ -122,6 +122,12 @@
     <Compile Include="View\Latihan\Pertemuan4.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="View\Latihan\Pertemuan5.Designer.vb">
+      <DependentUpon>Pertemuan5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Latihan\Pertemuan5.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="View\F_Menu.resx">
@@ -147,6 +153,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\Latihan\Pertemuan4.resx">
       <DependentUpon>Pertemuan4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Latihan\Pertemuan5.resx">
+      <DependentUpon>Pertemuan5.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

@@ -31,4 +31,9 @@
         Pertemuan4.Show()  ' Menampilkan Form Pertemuan4
         Me.Hide()  ' Menyembunyikan Form F_Menu agar tidak tumpang tindih
     End Sub
+
+    Private Sub button_Pertemuan5_Click(sender As Object, e As EventArgs) Handles button_Pertemuan5.Click
+        Pertemuan5.Show()  ' Menampilkan Form Pertemuan5
+        Me.Hide()  ' Menyembunyikan Form F_Menu agar tidak tumpang tindih
+    End Sub
 End Class
