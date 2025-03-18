@@ -16,3 +16,4 @@ C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.Latihan3.resou
 C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.Latihan1sd2.resources
 C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.Pertemuan4.resources
 C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.Pertemuan5.resources
+C:\Users\indra\source\repos\PortalProject\obj\Debug\PortalProject.LatihanValidasi.resources

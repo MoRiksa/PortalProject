@@ -36,4 +36,9 @@
         Pertemuan5.Show()  ' Menampilkan Form Pertemuan5
         Me.Hide()  ' Menyembunyikan Form F_Menu agar tidak tumpang tindih
     End Sub
+
+    Private Sub button_Pertemuan6_Click(sender As Object, e As EventArgs) Handles button_Pertemuan6.Click
+        LatihanValidasi.Show()  ' Menampilkan Form LatihanValidasi
+        Me.Hide()  ' Menyembunyikan Form F_Menu agar tidak tumpang tindih
+    End Sub
 End Class

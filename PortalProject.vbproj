@@ -116,6 +116,12 @@
     <Compile Include="View\Latihan\Latihan1.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="View\Latihan\LatihanValidasi.Designer.vb">
+      <DependentUpon>LatihanValidasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Latihan\LatihanValidasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="View\Latihan\Pertemuan4.Designer.vb">
       <DependentUpon>Pertemuan4.vb</DependentUpon>
     </Compile>
@@ -150,6 +156,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\Latihan\Latihan3.resx">
       <DependentUpon>Latihan3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Latihan\LatihanValidasi.resx">
+      <DependentUpon>LatihanValidasi.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\Latihan\Pertemuan4.resx">
       <DependentUpon>Pertemuan4.vb</DependentUpon>
