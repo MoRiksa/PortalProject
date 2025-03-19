@@ -41,4 +41,9 @@
         LatihanValidasi.Show()  ' Menampilkan Form LatihanValidasi
         Me.Hide()  ' Menyembunyikan Form F_Menu agar tidak tumpang tindih
     End Sub
+
+    Private Sub button_Praktikum_Click(sender As Object, e As EventArgs) Handles button_Praktikum.Click
+        Menu_Praktikum.Show()  ' Menampilkan Form Menu_Praktikum
+        Me.Hide()  ' Menyembunyikan Form F_Menu agar tidak tumpang tindih
+    End Sub
 End Class

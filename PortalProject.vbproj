@@ -134,6 +134,37 @@
     <Compile Include="View\Latihan\Pertemuan5.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="View\Menu_Praktikum.Designer.vb">
+      <DependentUpon>Menu_Praktikum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Menu_Praktikum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Praktikum\Praktikum1\Praktikum1.Designer.vb">
+      <DependentUpon>Praktikum1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Praktikum\Praktikum1\Praktikum1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Praktikum\Praktikum2\F_Timmy.Designer.vb">
+      <DependentUpon>F_Timmy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Praktikum\Praktikum2\F_Timmy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Praktikum\Praktikum2\F_Tommy.Designer.vb">
+      <DependentUpon>F_Tommy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Praktikum\Praktikum2\F_Tommy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Praktikum\Praktikum2\ModuleRataRata.vb" />
+    <Compile Include="View\Praktikum\Praktikum2\Praktikum2.Designer.vb">
+      <DependentUpon>Praktikum2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Praktikum\Praktikum2\Praktikum2.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="View\F_Menu.resx">
@@ -165,6 +196,21 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\Latihan\Pertemuan5.resx">
       <DependentUpon>Pertemuan5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Menu_Praktikum.resx">
+      <DependentUpon>Menu_Praktikum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Praktikum\Praktikum1\Praktikum1.resx">
+      <DependentUpon>Praktikum1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Praktikum\Praktikum2\F_Timmy.resx">
+      <DependentUpon>F_Timmy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Praktikum\Praktikum2\F_Tommy.resx">
+      <DependentUpon>F_Tommy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Praktikum\Praktikum2\Praktikum2.resx">
+      <DependentUpon>Praktikum2.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

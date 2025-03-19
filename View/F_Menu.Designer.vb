@@ -31,6 +31,7 @@ Partial Class F_Menu
         Me.button_Pertemuan4 = New System.Windows.Forms.Button()
         Me.button_Pertemuan5 = New System.Windows.Forms.Button()
         Me.button_Pertemuan6 = New System.Windows.Forms.Button()
+        Me.button_Praktikum = New System.Windows.Forms.Button()
         CType(Me.MenuImage, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -116,12 +117,23 @@ Partial Class F_Menu
         Me.button_Pertemuan6.Text = "Pertemuan 6"
         Me.button_Pertemuan6.UseVisualStyleBackColor = False
         '
+        'button_Praktikum
+        '
+        Me.button_Praktikum.BackColor = System.Drawing.SystemColors.HighlightText
+        Me.button_Praktikum.Location = New System.Drawing.Point(12, 12)
+        Me.button_Praktikum.Name = "button_Praktikum"
+        Me.button_Praktikum.Size = New System.Drawing.Size(230, 38)
+        Me.button_Praktikum.TabIndex = 9
+        Me.button_Praktikum.Text = "Praktikum"
+        Me.button_Praktikum.UseVisualStyleBackColor = False
+        '
         'F_Menu
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.MenuHighlight
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.button_Praktikum)
         Me.Controls.Add(Me.button_Pertemuan6)
         Me.Controls.Add(Me.button_Pertemuan5)
         Me.Controls.Add(Me.button_Pertemuan4)
@@ -145,4 +157,5 @@ Partial Class F_Menu
     Friend WithEvents button_Pertemuan4 As Button
     Friend WithEvents button_Pertemuan5 As Button
     Friend WithEvents button_Pertemuan6 As Button
+    Friend WithEvents button_Praktikum As Button
 End Class
